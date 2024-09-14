@@ -1,5 +1,7 @@
 # Bruno Lemos
-Atualmente estou aprimorando minhas habilidades em Java e SpringBoot
+Sou um DEV aprimorando habilidades em Java e SpringBoot.
+
+Cientista da computação desde 2022.2
 
 
 ## 🌐 Socials
